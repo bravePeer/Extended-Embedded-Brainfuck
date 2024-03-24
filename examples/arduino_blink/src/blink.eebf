@@ -1,0 +1,17 @@
+Configure BUILDIN LED as outputs
+>>>>++++++[>++++++<-]>!>>~:
+
+Set LOW
+<<+!>>>:
+
+Print debug
+#
+
+Infinite loop
+>>+[>
+
+Delay
+~[>~[-]<-]~[>~[-]<-]~[>~[-]<-]~[>~[-]<-]
+
+Set state
+>>~:<<<]
